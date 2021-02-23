@@ -1,11 +1,15 @@
-# README
+# 移住GO　IJYU GO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an app to find your next hometown.
 
-Things you may want to cover:
+##Desctiption
 
-* Ruby version
+You can search and find towns by narrowing the conditions.
+You can keep towns in your bookmarks.
+You can get more informations about the town by reading articles written by locals.
+You can send messages to locals if you have any questions about the town.
+
+* Ruby version 3.0.0
 
 * System dependencies
 
