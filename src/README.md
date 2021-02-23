@@ -10,6 +10,7 @@ You can get more informations about the town by reading articles written by loca
 You can send messages to locals if you have any questions about the town.
 
 * Ruby version 3.0.0
+* MySQL 8.0.0
 
 * System dependencies
 
